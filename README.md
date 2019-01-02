@@ -29,6 +29,8 @@
 
 Provide a simple webcomponent that apply a motion blur effect using SVG filters.
 
+[![View demo](http://components.coffeekraken.io/assets/img/view-demo.png)](http://components.coffeekraken.io/app/s-motion-blur-component)
+
 ## Table of content
 
 1. **[Demo](http://components.coffeekraken.io/app/s-motion-blur-component)**
