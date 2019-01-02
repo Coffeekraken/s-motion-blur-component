@@ -102,7 +102,6 @@ module.exports = {
 		js : {
 			language : 'js',
 			data : `
-				import 'webcomponents.js/webcomponents-lite'
 				import SMotionBlurComponent from './dist/index'
 			`
 		}
